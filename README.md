@@ -1,2 +1,2 @@
 # golbe
-Loadbalance using go
+Loadbalancer using go
